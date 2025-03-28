@@ -10,7 +10,7 @@ INSERT INTO friends (
 VALUES (1, 'Ororo Munroe', '30/04/1940');
 
 INSERT INTO friends (id, name, birthday)
-VALUES (2, 'Akhiad Dagaev', '09/03/1988'), (2, 'John Snow', '01/02/1995');
+VALUES (2, 'Akhiad Dagaev', '09/03/1988'), (3, 'John Snow', '01/02/1995');
 
 UPDATE friends
 SET name = 'Storm'
